@@ -5,10 +5,6 @@ Esquema básico ARDUINO UNO con la I/O BOARD ATLAS:
 
 señales ATLAS | Patillaje izquierda | patilaje derecha | señales ATLAS
 | ---: | ---: | ---: | :---: 
-
-
-
-
 NC | NC | PC5 | 
 NC | NC | PC4 |
 NC | NC | AREF | 
@@ -20,7 +16,7 @@ RESET  | PC6 | PB3 |
 +5V | +5V | PB1 | JOY_DOWN
 GND | GND | PB0 | JOY_RIGHT
 GND | GND | PD7  | JOY_LEFT
- | ADC0 | PD6 | HSYNC
+NC | ADC0 | PD6 | HSYNC
 EAR |  ADC1 | PD5 | AUDIO_R
 SD_CS |  ADC2 | PD4  | AUDIO_L
 SD_CLK |  ADC3 | PD3 | BLUE[1]
