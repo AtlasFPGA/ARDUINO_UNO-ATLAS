@@ -3,6 +3,10 @@ Diseño de un recolocador para ARDUINO UNO en la I/O BOARD ATLAS.
 
 Esquema básico ARDUINO UNO con la I/O BOARD ATLAS:
 
+Teniendo como base el pong realizado en ARDUINO UNO y expandiendo las señales todo lo posible con la I/O BOARD ATLAS:
+
+https://blog.arduino.cc/2015/09/24/yet-another-cool-pong-with-arduino-uno/
+
 señales ATLAS | Patillaje izquierda | patilaje derecha | señales ATLAS
 | ---: | ---: | ---: | :---: 
 NC | NC | PC5 R3*| PI_TX -> PI_I2C_SCL
