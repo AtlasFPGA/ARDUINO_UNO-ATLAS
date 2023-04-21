@@ -11,5 +11,5 @@ Integrado usado en el Arduino Uno:
 
 Señales del Arduino Uno:
 
-![Placa ARDUINO UNO](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/Arduino-uno-se%C3%B1ales.jpeg)
+![Placa ARDUINO UNO](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/UNO_PINOUT.png)
 
