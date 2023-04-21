@@ -7,6 +7,11 @@ Teniendo como base el pong realizado en ARDUINO UNO y expandiendo las señales t
 
 https://blog.arduino.cc/2015/09/24/yet-another-cool-pong-with-arduino-uno/
 
+También del ejemplo de pineado VGA con 8 colores:
+https://forum.arduino.cc/t/turn-your-uno-into-a-vga-output-device/99969/9
+
+1[ARDUINO UNO VGA8](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO_VGA_8COLORES.jpeg)
+
 señales ATLAS | Patillaje izquierda | patilaje derecha | señales ATLAS
 | ---: | ---: | ---: | :---: 
 NC | NC | PC5 R3*| PI_TX -> PI_I2C_SCL
