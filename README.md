@@ -5,12 +5,12 @@ Diseño de un recolocador para ARDUINO UNO en la I/O BOARD ATLAS.
 
 Visualización superior
 
-![Visualización inferior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D-CARA-INFERIOR.jpg)
+![Visualización inferior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D-CARA-SUPERIOR-RAY.jpg)
 
 
 Visualización inferior
 
-![Visualización superior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D.jpg)
+![Visualización superior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D-CARA-INFERIOR-RAY.jpg)
 
 ---
 
