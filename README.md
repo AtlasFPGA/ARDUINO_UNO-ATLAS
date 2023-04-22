@@ -10,6 +10,18 @@ https://blog.arduino.cc/2015/09/24/yet-another-cool-pong-with-arduino-uno/
 También del ejemplo de pineado VGA con 8 colores:
 https://forum.arduino.cc/t/turn-your-uno-into-a-vga-output-device/99969/9
 
+---
+
+Avance 22 Abril del 2023 Esquemático:
+
+![Avance 22 Abril del 2023 Esquemático](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/Esquem%C3%A1tico%20en%20desarrollo%20para%20ARDUINO%20UNO.png)
+
+Avance 22 Abril del 2023 PCB:
+
+![Avance 22 Abril del 2023 PCB](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/Placa_PCB_ARDUINO_UNO_ATLAS.png)
+
+---
+
 1[ARDUINO UNO VGA8](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO_VGA_8COLORES.jpeg)
 
 señales ATLAS | Patillaje izquierda | patilaje derecha | señales ATLAS
