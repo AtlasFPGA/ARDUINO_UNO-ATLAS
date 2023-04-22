@@ -1,6 +1,20 @@
 # ARDUINO_UNO-ATLAS
 Diseño de un recolocador para ARDUINO UNO en la I/O BOARD ATLAS.
 
+---
+
+Visualización superior
+
+![Visualización inferior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D-CARA-INFERIOR.jpg)
+
+
+Visualización inferior
+
+![Visualización superior](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-3D.jpg)
+
+---
+
+
 Esquema básico ARDUINO UNO con la I/O BOARD ATLAS:
 
 Teniendo como base el pong realizado en ARDUINO UNO y expandiendo las señales todo lo posible con la I/O BOARD ATLAS:
