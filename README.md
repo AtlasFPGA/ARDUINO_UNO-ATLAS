@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=ql8l04nuYEk
 
 En su versión BETA III.
 
+[![Alt text](https://github.com/AtlasFPGA/ARDUINO_UNO-ATLAS/blob/main/FOTOS/ARDUINO_UNO-ATLAS-0101-BETA3.png)](https://www.youtube.com/watch?v=Jc-W0Pg4uJ4)
+
+
 https://youtu.be/Jc-W0Pg4uJ4
 
 ---
