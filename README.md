@@ -5,6 +5,10 @@ Visionado del diseño:
 
 https://www.youtube.com/watch?v=ql8l04nuYEk
 
+En su versión BETA III.
+
+https://youtu.be/Jc-W0Pg4uJ4
+
 ---
 
 Visualización superior
