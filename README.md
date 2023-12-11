@@ -1,4 +1,6 @@
 # ARDUINO_UNO-ATLAS
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 Diseño de un recolocador para ARDUINO UNO en la I/O BOARD ATLAS.
 
 Visionado del diseño:
